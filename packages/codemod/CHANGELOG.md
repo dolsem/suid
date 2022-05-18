@@ -1,5 +1,13 @@
 # @suid/codemod
 
+## 0.4.0
+
+### Minor Changes
+
+- [`a538e2cb`](https://github.com/swordev/suid/commit/a538e2cb88ed876afbf9e1842117af20975eb5dd) Thanks [@juanrgm](https://github.com/juanrgm)! - Add `React.Attributes.className` transform
+
+* [`4188b9b4`](https://github.com/swordev/suid/commit/4188b9b4254b2ae143267832197db86915fa597e) Thanks [@juanrgm](https://github.com/juanrgm)! - Add `React.Attributes.key` transform
+
 ## 0.3.0
 
 ### Minor Changes

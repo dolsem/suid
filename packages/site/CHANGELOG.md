@@ -1,5 +1,14 @@
 # @suid/site
 
+## 0.3.2
+
+### Patch Changes
+
+- [`5648d993`](https://github.com/swordev/suid/commit/5648d993bae12f9b002f0830d31e2b577d779667) Thanks [@juanrgm](https://github.com/juanrgm)! - Set `solid-js` version in `Stackblitz` projects
+
+- Updated dependencies [[`a538e2cb`](https://github.com/swordev/suid/commit/a538e2cb88ed876afbf9e1842117af20975eb5dd), [`4188b9b4`](https://github.com/swordev/suid/commit/4188b9b4254b2ae143267832197db86915fa597e)]:
+  - @suid/codemod@0.4.0
+
 ## 0.3.1
 
 ### Patch Changes
